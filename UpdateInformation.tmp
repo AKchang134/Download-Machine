@@ -2,11 +2,12 @@ Update: True
 APPUpdate: True
 <Update> Name: "Download Machine v1.8.9.zip", URL: "https://codeload.github.com/AKchang134/Download_Machine/zip/refs/heads/exe"
 CanAutoUpdate: True
-AllCount: 3
+AllCount: 2
 ItemCount: 1
 [mods]
-Count: 1
+Count: 2
 <Download> Name: "anvilpatch-1.1.0.jar", URL: "https://mediafilez.forgecdn.net/files/3377/309/anvilpatch-1.1.0.jar", RemoveName: "None", GameVersion: "Zombie Apocalypse：Reborn"
-<Download> Name: "trajectory_estimation-forge-1.0.3.1-1.20.1.jar", URL: "https://cdn.modrinth.com/data/7c13Zjk8/versions/cq06oKjy/trajectory_estimation-forge-1.0.3.1-1.20.1.jar", RemoveName: "None", GameVersion: "1.20.1-Forge_47.4.0"
+<Download> Name: "BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar", URL: "https://mediafilez.forgecdn.net/files/2443/194/BetterBuildersWands-1.12-0.11.1.245%2B69d0d70.jar", RemoveName: "None", GameVersion: "Zombie Apocalypse：Reborn"
 <Update> Name: "BetterAdvancements-1.20.1-0.3.2.161.jar", URL: "https://cdn.modrinth.com/data/Q2OqKxDG/versions/OYPnvpWF/BetterAdvancements-1.20.1-0.3.2.161.jar", RemoveName: "BetterAdvancements-Fabric-1.20.1", GameVersion: "1.20.1-Forge_47.4.0"
+
 
